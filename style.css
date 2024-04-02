@@ -1,0 +1,9 @@
+body {
+  font-family: 'Gemunu Libre', sans-serif;
+}
+
+.mail {
+  font-family: 'Gemunu Libre', sans-serif ;
+  font-size: 17px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200..800&display=swap')
